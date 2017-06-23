@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
--Problems making it run on emulators.
+-Initially had problems making it run on emulators.
 
 ## Open-source libraries used
 
